@@ -1,4 +1,4 @@
 # Toxic_Comments_Classification
 
 Link to dataset
-[link](kaggle kernels output mahmoudreda55/toxic-comment-classification -p /path/to/dest)
+[link](https://www.kaggle.com/code/mahmoudreda55/toxic-comment-classification/data)
